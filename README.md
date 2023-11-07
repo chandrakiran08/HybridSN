@@ -1,5 +1,5 @@
 ## Developing a Computationally efficient HybridSN Model
-In this Paper, we reduced the computational Complextiy of Base HybridSN Model, which can be found at [Link](https://github.com/gokriznastic/HybridSN)
+In this Paper, we reduced the computational Complextiy of [Base HybridSN Model](https://github.com/gokriznastic/HybridSN)
 
 ## Introduction
 This paper suggests using an Inception model between the 3D convolution and 2D convolution to decrease these computations. This research aims to use Indian Pines, University of Pavia, and Salinas Scene remote sensing datasets to lower the computing complexity of the Hybrid SN model while keeping good classification accuracy.
