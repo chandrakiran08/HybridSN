@@ -7,6 +7,7 @@ This paper suggests using an Inception model between the 3D convolution and 2D c
 ## Model
 <img src="https://github.com/chandrakiran08/HybridSN/assets/97818252/1637f785-7962-4591-9df1-9ed22bfed793">
 Fig. Proposed Model with an idea of Inception Models between 3D and 2D CNN Layers
+
 ## Prerequisites
 
 - [Anaconda 2.7](https://www.anaconda.com/download/#linux)
