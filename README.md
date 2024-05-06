@@ -1,4 +1,4 @@
-## Developing a Computationally efficient HybridSN Model
+## Developing a Computationally Efficient HybridSN Model
 In this Paper, we reduced the computational Complextiy of [Base HybridSN Model](https://github.com/gokriznastic/HybridSN)
 
 ## Introduction
