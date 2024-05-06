@@ -6,7 +6,6 @@ This paper suggests using an Inception model between the 3D convolution and 2D c
 
 ## Model
 <img src="https://github.com/chandrakiran08/HybridSN/assets/97818252/0c8dcce4-a5db-4d80-aa1f-ab90dc817540">
->
 Fig. Proposed Model with an idea of Inception Models between 3D and 2D CNN Layers
 
 ## Prerequisites
@@ -17,6 +16,7 @@ Fig. Proposed Model with an idea of Inception Models between 3D and 2D CNN Layer
 
 ## Results
 <img width="981" alt="Results" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/d3b53b16-ae9c-48ec-b1aa-86535acd9eba">
+
 And the table below shows the results specific to Indian Pines Dataset compared to Original Hybrid SN Model.
 <img width="579" alt="Results IP" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/3c513a1c-546d-40e1-bdd4-ba5cdf45c627">
 
