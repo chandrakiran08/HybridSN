@@ -5,7 +5,8 @@ In this Paper, we reduced the computational Complextiy of [Base HybridSN Model](
 This paper suggests using an Inception model between the 3D convolution and 2D convolution to decrease these computations. This research aims to use Indian Pines, University of Pavia, and Salinas Scene remote sensing datasets to lower the computing complexity of the Hybrid SN model while keeping good classification accuracy.
 
 ## Model
-<img src="https://github.com/chandrakiran08/HybridSN/assets/97818252/1637f785-7962-4591-9df1-9ed22bfed793">
+<img src="https://github.com/chandrakiran08/HybridSN/assets/97818252/0c8dcce4-a5db-4d80-aa1f-ab90dc817540">
+>
 Fig. Proposed Model with an idea of Inception Models between 3D and 2D CNN Layers
 
 ## Prerequisites
@@ -15,22 +16,26 @@ Fig. Proposed Model with an idea of Inception Models between 3D and 2D CNN Layer
 - [Keras 2.0](https://github.com/fchollet/keras)
 
 ## Results
-<img src="https://github.com/chandrakiran08/HybridSN/assets/97818252/9aecc63d-6397-4bbc-bf6e-f99abe8279dd">
+<img width="981" alt="Results" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/d3b53b16-ae9c-48ec-b1aa-86535acd9eba">
+And the table below shows the results specific to Indian Pines Dataset compared to Original Hybrid SN Model.
+<img width="579" alt="Results IP" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/3c513a1c-546d-40e1-bdd4-ba5cdf45c627">
 
 ## Threshold
 We also found the threshold of Inception Model in HybridSN Model
 ### Indian Pines (IP) Dataset
-<img width="1332" alt="IP" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/45783e71-90c7-40d6-b6e6-bea1d0d9a832">
+<img width="1357" alt="IP" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/b7808c9d-ab02-4929-9a05-baa92d3df4ce">
 
 This Figures shows the Average Accuracy, Training Accuracy and Test Accuracy for Various Combination of Inception and CNN Layers
 
 ### Salina Scenes (SS) Dataset
-![SS](https://github.com/chandrakiran08/HybridSN/assets/97818252/ae17010b-006a-469d-9498-cba912220bb3)
+<img width="1349" alt="SS" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/d64e192d-e556-4c3c-a66a-ade1b0284e4c">
+
 
 This Figures shows the Average Accuracy, Training Accuracy and Test Accuracy for Various Combination of Inception and CNN Layers
 
 ### University of Pavia (UP) Dataset
-<img width="1372" alt="UP" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/d7102b9b-beb1-4ad1-9c8e-7f6a4b5f047d">
+<img width="1350" alt="PU" src="https://github.com/chandrakiran08/HybridSN/assets/97818252/a980209a-260d-45c0-b169-75a4c9139065">
+
 
 This Figures shows the Average Accuracy, Training Accuracy and Test Accuracy for Various Combination of Inception and CNN Layers
 
